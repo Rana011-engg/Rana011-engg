@@ -1,6 +1,6 @@
 
 
-<div align="center">
+
 
 # Hi, I'm Nitin Rana 👋
 
@@ -19,3 +19,4 @@
 **"Building scalable backend solutions!"** ✨
 
 </div>
+
