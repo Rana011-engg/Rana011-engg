@@ -38,18 +38,17 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rana011-engg&show_icons=true&theme=radical&locale=en" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana011-engg&layout=compact&theme=radical&locale=en" width="40%"/>
+  <img height="180em" src="https://cra.demolab.com/user/Rana011-engg" />
 </div>
 
 ## 🔥 Featured Projects
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana011-engg&repo=nitin-rana-portfolio&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats-git-main-denkrias.vercel.app/api/pin/?username=Rana011-engg&repo=nitin-rana-portfolio&theme=radical" />
 </div>
 
 ## 📈 Contribution Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rana011-engg&theme=radical" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Rana011-engg" />
 </div>
 
 ---
