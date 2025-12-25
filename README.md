@@ -1,10 +1,6 @@
-
-  
 # Hi, I'm Nitin Rana 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007396&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Open+to+Internships!+%F0%9F%A4%9D;Building+Scalable+APIs+🚀)]
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007396&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Open+to+Internships!+%F0%9F%A4%9D;Building+Scalable+APIs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://rana011-engg.github.io/nitin-rana-portfolio">
@@ -48,15 +44,7 @@
 
 ## 🔥 Featured Projects
 <div align="center">
-  <table>
-    <tr>
-      <td width="45%">
-        <a href="https://github.com/Rana011-engg/nitin-rana-portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana011-engg&repo=nitin-rana-portfolio&theme=radical" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana011-engg&repo=nitin-rana-portfolio&theme=radical" width="45%"/>
 </div>
 
 ## 📈 Contribution Streak
@@ -68,9 +56,5 @@
 
 <div align="center">
   <strong>Let's connect! 🚀</strong><br>
-  📧 nitinthakur50897@gmail.com
+  📧 [nitinthakur50897@gmail.com](mailto:nitinthakur50897@gmail.com)
 </div>
-
-
-
-
