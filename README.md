@@ -55,5 +55,6 @@
 
 <div align="center">
   <strong>Let's connect! 🚀</strong><br>
-  📧 [nitinthakur50897@gmail.com](mailto:nitinthakur50897@gmail.com)
+  📧 [nitinthakur50897@gmail.com]
 </div>
+
